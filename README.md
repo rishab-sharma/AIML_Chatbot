@@ -10,7 +10,7 @@ Added New GUI compatible with all browsers, mobiles with autoscroll
     Flask >= 0.10
 
 
-## Screenshot
+## Interface
 ![chatbot](https://blog.animaker.com/wp-content/uploads/2017/04/Chat-bot-interface-GIF.gif)
 
 ## Author
