@@ -15,4 +15,4 @@ Added New GUI compatible with all browsers, mobiles with autoscroll
 
 ## Author
 
-[Sohel Amin](http://www.sohelamin.com)
+[Rishab Sharma](https://github.com/rishab-sharma)
